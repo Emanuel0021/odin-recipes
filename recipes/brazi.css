@@ -1,0 +1,26 @@
+body{
+    background-color: #e3e566;
+}
+.titulo{
+    color: blue;
+}
+.Description{
+color:blue;
+background-color: #6f9b3c;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: medium;
+}
+img{
+    height: auto;
+    width: 400px;
+}
+button{
+    color: black;
+    font-size: large;
+    font-weight: 700;
+    background-color: #6f9b3c;
+}
