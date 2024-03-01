@@ -1,16 +1,27 @@
-title{
-    font-size: 26px;
+
+.title{
+    width: 400px;
+    height: auto;
+    margin: auto;
+    outline: auto;
+    font-size:  30px;
     text-align: center;
-    
+    background-color:#9c7be7;
 }
 
 
 .listi{
+    display: block;
+    outline: auto ;
     color: black;
-font-size: xx-large;
-background-color: #edcfc0;
-text-align: center;
+    font-size: xx-large;
+    background-color: #edcfc0;
+    text-align: center;
+    padding: 10px;
+    margin:10px
+
 }
+
 img{
     height: auto;
     width: 400px;
